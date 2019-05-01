@@ -33,4 +33,4 @@ Tkv is a key-value store written in java, it applies to embedded scene.
 ```
 
 ## Feedback
-[http://weibo.com/seanlinwang](weibo.com/seanlinwang)  xailnx@gmail.com
+xalinx@gmail.com
